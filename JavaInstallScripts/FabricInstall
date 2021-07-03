@@ -1,5 +1,5 @@
 #!/bin/bash
-sudo apt update -qq
+sudo apt update -qq  
 sudo apt install -y -qq curl jq unzip dos2unix wget
 
 cd ..
