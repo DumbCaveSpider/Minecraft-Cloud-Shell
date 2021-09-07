@@ -1,12 +1,6 @@
 # Minecraft Cloud Shell Tutorial & Info (Development Version)
 
-## Note for Everyone
-
-`[IMPORTANT] This development build is outdated and no longer been work on. Please considering going to LordOfWizard's Project for a stable build. Thanks!`
-
-This Project is offically **Forked** into [LordOfWizard's Project](https://github.com/lordofwizard/mcserver). This project will consently be updating with different features. This is more like a development builds and LordOfWizard's will be the stable builds. Feel free to keep on testing this project out.
-
-You can use [LordOfWizard's Project](https://github.com/lordofwizard/mcserver) if you want a static and more stable builds.
+# [CLICK THIS LINK FOR UPDATED VERSION!!!!!](https://github.com/lordofwizard/mcserver)
 
 ---
 **In development:** 
@@ -47,6 +41,8 @@ You can view your exact specs by doing `./specinfo`
 ### Service Used:
 - [playit.gg](https://playit.gg)
 - [console.cloud.google.com](https://console.cloud.google.com)
+
+# This installation is old and is no longer in works. Please use the link at the top of the project!!! Thanks!
 
 ## Installation 
 * Activate a [Google Cloud Shell](https://console.cloud.google.com/) on Google cloud.
