@@ -44,3 +44,6 @@ echo "> Installing AFK(Away From Keyboard) Script "
 python3 -m pip install bpytop
 echo ""
 
+echo "> Installing required packages "
+sudo apt-get install psmisc
+
