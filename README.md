@@ -143,14 +143,17 @@ Do `Ctrl + W` then press `Y` to save and press `Enter` exit the text editor.
 - [Restart](https://github.com/DumbCaveSpider/Minecraft-Cloud-Shell/blob/main/README.md#restarting-your-server) your server after you apply these changes.
 
 ## Access Server Files
+# Google Cloud Shell
 If you want to access your server files, go to `Open Editor` on the top right.
 - Once you there, if you don't see any folders on the left side, you can `Open Folder` and pick `mcserver` and go to `server` to view and modify anything inside.
 - If you made any changes on your server, restart your server.
 After you restarted your server, all the changes are saved into your server.
+# Deepnote
+If you want to access your server files, on the right side of the screen, you can find a section called `Files` and open the folder where `server` is to modify the game server.
 
 ## Changing/Customize Variables
 If you want to change the variables inside the script or just tweak something for your server to work, you can change and edit the varibles/
-- To do this, go to either `/JavaInstallScripts` or `/BedrockInstallScripts` on `Cloud Shell Editor`
+- To do this, go to either `/JavaInstallScripts` or `/BedrockInstallScripts` on `Cloud Shell Editor` for **Google Cloud Shell** or in the `Files` section in **Deepnote**
 
 The following `Java` servers are supported for custom variables:
 - **Fabric**
