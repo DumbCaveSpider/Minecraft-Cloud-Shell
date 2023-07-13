@@ -5,7 +5,7 @@ cd server
 
 mem=$(grep MemTotal /proc/meminfo | sed -e 's/MemTotal:[ ]*//' | sed -e 's/ kB//') # some new stuff 
 
-mem=$(($mem/1024/1024))
+mem=$(($mem/8196/8196))
 
 #uncomment this below line only if the server you are running is 1.17+ (if it is uncommented by default keep it as it is).
 $JAVA -Xmx${mem}G -Xms${mem}G -jar server.jar nogui
